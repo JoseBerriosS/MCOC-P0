@@ -1,5 +1,5 @@
 # MCOC2020-P0
-# Mi computador principal
+# Mi Computador Principal
 
 * Marca/modelo: Apple MacBook Pro 15-inch (2018)
 * Tipo: Notebook
@@ -31,5 +31,5 @@
 
 
 * Dirección MAC de la tarjeta wifi: F0:18:98:64:F0:D6
-* Dirección IP (Interna, del router): 190.163.2.88
+* Dirección IP: 190.163.2.88
 * Proveedor internet: VTR Banda Ancha S.A.
