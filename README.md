@@ -9,7 +9,7 @@
   * Velocidad Base: 2,2 GHz
   * Velocidad Máxima: 4.1 GHz
   * Numero de núcleos: 6
-  * Humero de hilos: 12
+  * Numero de subprocesos: 12
 * Tamaño de las cachés del procesador
   * L1: 64KB
   * L2: 256KB
@@ -20,9 +20,9 @@
   * Velocidad 2400 MHz
   * Numero de DIMM: 2
 * Tarjeta Gráfica
-  * Marca / Modelo: Nvidia GeForce GTX 980M
-  * Memoria dedicada: 8192 MB
-  * Resolución: 1920 x 1080
+  * Marca / Modelo: AMD Radeon Pro 555X
+  * Memoria: 4 GB
+  * Resolución: 2880 x 1800
 * Disco: 
   * Marca: Apple
   * Tipo: SSD
