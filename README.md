@@ -10,11 +10,11 @@
   * Velocidad Máxima: 4.1 GHz
   * Numero de núcleos: 6
   * Numero de subprocesos: 12
-* Tamaño de las cachés del procesador
+* Tamaño de las cachés del procesador:
   * L1: 64KB
   * L2: 256KB
   * L3: 9 MB
-* Memoria 
+* Memoria:
   * Total: 16 GB
   * Tipo memoria: DDR4
   * Velocidad 2400 MHz
