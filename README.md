@@ -37,7 +37,7 @@
 
 # Desempeño MATMUL
 
-https://github.com/JoseBerriosS/MCOC2020-P0/issues/1#issue-675228979
+![alt text](https://github.com/JoseBerriosS/MCOC2020-P0/issues/1#issue-675228979)
 
 * ¿Como difiere del gráfico del profesor/ayudante?
 
