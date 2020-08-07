@@ -37,7 +37,7 @@
 
 # Desempeño MATMUL
 
-![alt text](https://github.com/JoseBerriosS/MCOC2020-P0/issues/1#issue-675228979)
+<img width="421" alt="Graficos Rendimiento A@B" src="https://user-images.githubusercontent.com/69157278/89681236-867fd100-d8c2-11ea-828d-4a925a662f22.png">
 
 * ¿Como difiere del gráfico del profesor/ayudante?
 
