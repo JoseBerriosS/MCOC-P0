@@ -36,6 +36,9 @@
 
 
 # Desempeño MATMUL
+
+![alt text](http://url/to/Graficos Rendimiento A@B.png)
+
 * ¿Como difiere del gráfico del profesor/ayudante?
 
 * ¿A qué se pueden deber las diferencias?
