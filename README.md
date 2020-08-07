@@ -37,7 +37,7 @@
 
 # Desempeño MATMUL
 
-![alt text](http://url/to/Graficos Rendimiento A@B.png)
+
 
 * ¿Como difiere del gráfico del profesor/ayudante?
 
@@ -46,10 +46,12 @@
 * El gráfico de uso de memoria es lineal con el tamaño de matriz, pero el de tiempo transcurrido no lo es ¿porqué puede ser?
 
 * ¿Qué versión de python está usando?
+  Estoy utilizando la versión 3.7 de Python.
 
 * ¿Qué versión de numpy está usando?
+  Estoy utilizando la versión 1.16.2 de Numpy.
 
 * Durante la ejecución de su código ¿se utiliza más de un procesador? Muestre una imagen de su uso de procesador durante alguna corrida para confirmar. 
-
+  
 
 
