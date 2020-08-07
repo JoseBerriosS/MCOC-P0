@@ -39,19 +39,20 @@
 
 <img width="421" alt="Graficos Rendimiento A@B" src="https://user-images.githubusercontent.com/69157278/89681236-867fd100-d8c2-11ea-828d-4a925a662f22.png">
 
-* ¿Como difiere del gráfico del profesor/ayudante?
+* ¿Como difiere del gráfico del profesor/ayudante? Difiere en el principio, ya que mi equipo tarda más en resolver la primera matriz. Luego se ve una tendencia a la alza, muy aproximada a la del profesor/ayudante.
+  
+* ¿A qué se pueden deber las diferencias? Tener más procesos simultáneos, una mayor utilización de recursos al momento de correr el programa.
 
-* ¿A qué se pueden deber las diferencias?
-
-* El gráfico de uso de memoria es lineal con el tamaño de matriz, pero el de tiempo transcurrido no lo es ¿porqué puede ser?
+* El gráfico de uso de memoria es lineal con el tamaño de matriz, pero el de tiempo transcurrido no lo es ¿porqué puede ser? La memoria utilizada es la misma, ya que la forma de escribir el archivo es la misma. El tiempo, sin embargo, no lo es, depende de las características del equipo.
 
 * ¿Qué versión de python está usando?
   Estoy utilizando la versión 3.7 de Python.
 
-* ¿Qué versión de numpy está usando?
-  Estoy utilizando la versión 1.16.2 de Numpy.
+* ¿Qué versión de numpy está usando? Estoy utilizando la versión 1.16.2 de Numpy.
 
-* Durante la ejecución de su código ¿se utiliza más de un procesador? Muestre una imagen de su uso de procesador durante alguna corrida para confirmar. 
+* Durante la ejecución de su código ¿se utiliza más de un procesador? Muestre una imagen de su uso de procesador durante alguna corrida para confirmar.
+<img width="779" alt="Captura de Pantalla 2020-08-07 a la(s) 15 53 34" src="https://user-images.githubusercontent.com/69157278/89684490-926e9180-d8c8-11ea-91ce-f1f5ca023c70.png">
+No sabría decir si más de un procesador es utilizado, pero por lo que se aprecia en la imagen tiene un peak de %CPU = 646,06.
   
 
 
