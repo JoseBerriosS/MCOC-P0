@@ -61,6 +61,9 @@
   
   # Desempeño MIMATMUL
   
+  ![rendimiento mimatmul](https://user-images.githubusercontent.com/69157278/89847600-6a925e80-db52-11ea-8c5b-34bf869c6cba.png)
+  
+* En esta ocasión el gráfico se muestra de una forma más lineal, se demora más tiempo en realizar esta operación. Tal es la lentitud, que se toma como máximo la matriz de 500x500 (20 minutos aprox. en realizar todo el código).
   
 
 
