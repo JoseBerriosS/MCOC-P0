@@ -63,11 +63,14 @@
   
   ![rendimiento mimatmul](https://user-images.githubusercontent.com/69157278/89847600-6a925e80-db52-11ea-8c5b-34bf869c6cba.png)
   
+
+  
 * En esta ocasión el gráfico se muestra de una forma más lineal, se demora más tiempo en realizar esta operación. Tal es la lentitud, que se toma como máximo la matriz de 500x500 (20 minutos aprox. en realizar todo el código). Sin embargo, no hay cambios en la memoria utilizada, ya que sigue siendo el mismo cálculo utilizado para la entrega anterior.
 El gráfico del ayudante también tiene un aspecto lineal, difieren únicamente al principio, y esto puede ser por diferencias en los procesadores. 
   
 # Desempeño de INV
 ![rendimiento numpy](https://user-images.githubusercontent.com/69157278/90082637-4b283c80-dcde-11ea-9b55-b49e49dcd4ec.png)
+![rendimiento scipy false](https://user-images.githubusercontent.com/69157278/90082706-7e6acb80-dcde-11ea-9dd3-f22f8681ef5a.png)
 
 No se alcanza a apreciar un cambio significativo al emplear la opción "overwrite_a=True".
 
