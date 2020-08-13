@@ -67,6 +67,7 @@
 El gráfico del ayudante también tiene un aspecto lineal, difieren únicamente al principio, y esto puede ser por diferencias en los procesadores. 
   
 # Desempeño de INV
+![rendimiento numpy](https://user-images.githubusercontent.com/69157278/90082637-4b283c80-dcde-11ea-9b55-b49e49dcd4ec.png)
 
 No se alcanza a apreciar un cambio significativo al emplear la opción "overwrite_a=True".
 
