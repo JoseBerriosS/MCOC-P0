@@ -73,7 +73,6 @@ El gráfico del ayudante también tiene un aspecto lineal, difieren únicamente 
 ![rendimiento scipy false](https://user-images.githubusercontent.com/69157278/90082706-7e6acb80-dcde-11ea-9dd3-f22f8681ef5a.png)
 ![rendimiento scipy true](https://user-images.githubusercontent.com/69157278/90082819-c7bb1b00-dcde-11ea-81f1-49892196bb93.png)
 
-
 No se alcanza a apreciar un cambio significativo al emplear la opción "overwrite_a=True".
 
 * np.half = float16
