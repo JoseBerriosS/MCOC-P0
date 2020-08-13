@@ -66,5 +66,15 @@
 * En esta ocasión el gráfico se muestra de una forma más lineal, se demora más tiempo en realizar esta operación. Tal es la lentitud, que se toma como máximo la matriz de 500x500 (20 minutos aprox. en realizar todo el código). Sin embargo, no hay cambios en la memoria utilizada, ya que sigue siendo el mismo cálculo utilizado para la entrega anterior.
 El gráfico del ayudante también tiene un aspecto lineal, difieren únicamente al principio, y esto puede ser por diferencias en los procesadores. 
   
+# Desempeño de INV
 
+No se alcanza a apreciar un cambio significativo al emplear la opción "overwrite_a=True".
 
+* np.half = float16
+* np.single = float32
+* np.double = float64
+* np.longdouble = float128
+
+* ¿Qué algoritmo de inversión cree que utiliza cada método (ver wiki)?
+
+* ¿Como incide el paralelismo y la estructura de caché de su procesador en el desempeño en cada caso? El paralelismo básicamente es realizar varios procesos en simultáneo. El procesador divide los problemas más grandes y los convierte en problemas más pequeños, asi logra utilizar mejor los distintos tipos de memoria (L1, L2, L3)
