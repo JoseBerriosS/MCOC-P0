@@ -85,6 +85,8 @@ No se alcanza a apreciar un cambio significativo al emplear la opción "overwrit
 
 # Desempeño de Ax = b
 
-Hubo como un ciclo en los procesadores, ya que cada cierto tiempo bajaba el uso, esto puede ser porque algunas funciones son muchos mas eficientes. La más lenta de todas, sin duda, fue la 'hecha a mano', que en la variante de 20000x20000 demoro 109 segundos en promedio.\n
+Hubo como un ciclo en los procesadores, ya que cada cierto tiempo bajaba el uso, esto puede ser porque algunas funciones son muchos mas eficientes. La más lenta de todas, sin duda, fue la 'hecha a mano', que en la variante de 20000x20000 demoro 109 segundos en promedio.
+
+
 El proceso tardó cerca de 1 hora, sobre las matrices de 2000x2000 se nota una gran diferencia en el tiempo utilizado para resolver el problema.
 
