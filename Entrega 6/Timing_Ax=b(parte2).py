@@ -17,8 +17,6 @@ def Laplace(N):
                 A[i,j] = -1             
     return (A)
 
-
-
 Ns = [2, 5, 10, 12, 20, 35, 40, 45, 50 , 55, 60, 75, 100, 125, 160, 200,
       350, 500, 1000, 2000, 5000, 10000, 15000, 20000]
 
@@ -134,8 +132,6 @@ for matriz in archivo:
     for i in lineas:
         x.append(int(i[0]))
         y_t.append((i[1]))
-
-    
     
     plt.grid(True)
     plt.xscale('log')
@@ -150,7 +146,6 @@ for matriz in archivo:
                , '1 ms', '10 ms', '0.1 s', '1 s', '10 s', '1 m',
                '10 m'))
     plt.xlim(0, 20000)
-    
     
     plt.xlabel('Tamaño de la Matriz N')
     cont+=1
