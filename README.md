@@ -82,3 +82,7 @@ No se alcanza a apreciar un cambio significativo al emplear la opción "overwrit
 * ¿Qué algoritmo de inversión cree que utiliza cada método (ver wiki)?
 
 * ¿Como incide el paralelismo y la estructura de caché de su procesador en el desempeño en cada caso? El paralelismo básicamente es realizar varios procesos en simultáneo. El procesador divide los problemas más grandes y los convierte en problemas más pequeños, asi logra utilizar mejor los distintos tipos de memoria (L1, L2, L3)
+
+# Desempeño de Ax = b
+
+* Hubo como un ciclo en los procesadores, ya que cada cierto tiempo bajaba el uso, esto puede ser porque algunas funciones son muchos mas eficientes. La más lenta de todas, sin duda, fue la 'hecha a mano', que en la variante de 20000x20000 demoro 109 segundos en promedio.
