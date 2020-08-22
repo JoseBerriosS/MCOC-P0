@@ -92,6 +92,14 @@ El proceso tardó cerca de 1 hora, sobre las matrices de 2000x2000 se nota una g
 
 # Matrices dispersas y complejidad computacional
 
+![INV dispersa](https://user-images.githubusercontent.com/69157278/90946886-67735a00-e3ff-11ea-8800-c204d988fb50.png)
+![INV](https://user-images.githubusercontent.com/69157278/90946889-6d693b00-e3ff-11ea-9ef3-7eaca77f7cf8.png)
+![MATMUL dispersa](https://user-images.githubusercontent.com/69157278/90946891-6f32fe80-e3ff-11ea-95e3-3ec9fabf597a.png)
+![MATMUL](https://user-images.githubusercontent.com/69157278/90946892-70642b80-e3ff-11ea-80ba-254bc31b6e08.png)
+![SOLVE dispersa](https://user-images.githubusercontent.com/69157278/90946893-722def00-e3ff-11ea-9931-e4db4b27c6d6.png)
+![SOLVE](https://user-images.githubusercontent.com/69157278/90946894-735f1c00-e3ff-11ea-80b5-4eb18c8b552d.png)
+
+
 ```ruby
 def Laplace(N, dtype = float64):
     A = zeros((N,N),dtype = float64)
