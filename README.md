@@ -90,3 +90,16 @@ Hubo como un ciclo en los procesadores, ya que cada cierto tiempo bajaba el uso,
 
 El proceso tardó cerca de 1 hora, sobre las matrices de 2000x2000 se nota una gran diferencia en el tiempo utilizado para resolver el problema.
 
+# Matrices dispersas y complejidad computacional
+
+```ruby
+def Laplace(N, dtype = float64):
+    A = zeros((N,N),dtype = float64)
+    for i in range(N):
+        A[i,i] = 2
+        for j in range(N):
+            if i+1 == j or i-1 == j:
+                A[i,j] = -1             
+    return (A)
+```
+
